@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=100&section=header"/>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=F7F7F7&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Eu+me+chamo+Allan!;E+eu+sou+um+desenvolvedor+full+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=F7F7F7&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Eu+me+chamo+Allan!;E+eu+sou+um+desenvolvedor+full+stack!)](https://git.io/typing-svg)
 </div>
 
 ## Sobre mim:
