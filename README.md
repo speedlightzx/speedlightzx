@@ -5,7 +5,9 @@
 </div>
 
 ## Sobre mim:
-Olá! Eu sou o Allan e eu sou um desenvolvedor full stack.👋
+Olá! Eu sou o Allan e eu sou um desenvolvedor full stack.👋 <br />
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIP. <br />
+Gosto de desenvolver softwares e aprender sobre eles. :)
 
 ### Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-herbert-388631296/)
@@ -33,6 +35,7 @@ Olá! Eu sou o Allan e eu sou um desenvolvedor full stack.👋
 <img src="https://img.shields.io/badge/Insomnia-%235834CC.svg?style=for-the-badge&logo=insomnia&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 </div>
 
 <br />
