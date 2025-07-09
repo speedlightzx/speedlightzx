@@ -42,8 +42,4 @@ Olá! Meu nome é Allan e eu gosto de estudar sobre softwares. O meu primeiro co
 <img style="height: 12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedlightzx&layout=compact&hide_border=true&text_color=ffffff&bg_color=000000" />
 </div>
 
-<div align="center">
-<img src="http://profile-counter.glitch.me/{speedlightzx}/count.svg">
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=100&section=footer"/>
