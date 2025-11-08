@@ -4,6 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=F7F7F7&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Eu+me+chamo+Allan!;E+eu+sou+um+desenvolvedor+full+stack!)](https://git.io/typing-svg)
 </div>
 
+## Sobre mim:
+Olá! Eu me chamo Allan, e eu sou um desenvolvedor full stack!
+
 ### Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-herbert-388631296/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:allanherbertbr@gmail.com)
