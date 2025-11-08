@@ -4,9 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=F7F7F7&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Eu+me+chamo+Allan!;E+eu+sou+um+desenvolvedor+full+stack!)](https://git.io/typing-svg)
 </div>
 
-## Sobre mim:
-Olá! Meu nome é Allan e eu gosto de estudar sobre softwares. O meu primeiro contato com uma linguagem de programação foi mais ou menos 2018, onde eu descobri o Javascript e o que ele poderia fazer, as primeiras coisas que eu fiz foram bots para o discord, eu tentava criar diversos tipos de bot. Um tempo depois eu parei mais de desenvolver bots por um período de tempo, porém eu ainda gostava e estudava sobre, quando eu entrei na faculdade de Análise e Desenvolvimento de Sistemas me motivei mais a desenvolver softwares e aprender tecnologias novas, desde então eu sigo estudando muito sobre desenvolvimento de softwares, linguagens de programação, tecnologias novas e modernas. Eu estou sempre buscando aprender mais.
-
 ### Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-herbert-388631296/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:allanherbertbr@gmail.com)
