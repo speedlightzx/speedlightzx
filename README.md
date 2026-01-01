@@ -30,8 +30,8 @@ Olá! Eu me chamo Allan, e eu sou um desenvolvedor full stack!
 
 <br />
 <div align="center">
-<img style="height: 12rem; width: 30rem" src="https://github-readme-stats.vercel.app/api?username=speedlightzx&show_icons=true&count_private=true&hide_border=true&text_color=FFFFFF&bg_color=000000" />
-<img style="height: 12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedlightzx&layout=compact&hide_border=true&text_color=ffffff&bg_color=000000" />
+<img style="height: 12rem; width: 30rem" src="https://githubstats-umber.vercel.app/api?username=speedlightzx&theme=tokyonight&show_icons=true" />
+<img style="height: 12rem" src="https://githubstats-umber.vercel.app/api/top-langs?username=speedlightzx&layout=compact&theme=tokyonight" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=100&section=footer"/>
