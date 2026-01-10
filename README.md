@@ -28,10 +28,10 @@ Olá! Eu me chamo Allan, e eu sou um desenvolvedor full stack!
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-<br />
+<!-- <br />
 <div align="center">
 <img style="height: 12rem; width: 30rem" src="https://githubstats-umber.vercel.app/api?username=speedlightzx&theme=tokyonight&show_icons=true" />
 <img style="height: 12rem" src="https://githubstats-umber.vercel.app/api/top-langs?username=speedlightzx&layout=compact&theme=tokyonight" />
-</div>
+</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=100&section=footer"/>
