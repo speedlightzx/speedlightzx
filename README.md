@@ -1,4 +1,4 @@
-<!-- Galaxy Profile README Template
+<!-- Galaxy Profile README Template d
      Customize this file with your own info, then rename it to README.md
      in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
      The SVG paths below point to assets/generated/ which are auto-generated
