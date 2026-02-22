@@ -20,7 +20,7 @@ profile:
   location: "San Francisco, CA"
   bio: |
     Olá! Meu nome é Allan e eu sou um Desenvolvedor Full Stack! Seja bem-vindo ao meu perfil!
-  philosophy: '"Desenvolvendo softwares para facilitar a vida das pessoas"'
+  philosophy: ''
 
 # Social links displayed at the bottom of the profile
 social:
