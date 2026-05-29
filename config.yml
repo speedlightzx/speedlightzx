@@ -38,12 +38,14 @@ galaxy_arms:
       - "TypeScript"
       - "Next.js"
       - "TailwindCSS"
+      - "Astro"
   - name: "Backend"
     color: "synapse_cyan"
     items:
       - "Node.js"
       - "PostgreSQL"
       - "MySQL"
+      - "Nest.js"
   - name: "DevOps"
     color: "axon_amber"
     items:
@@ -94,4 +96,5 @@ languages:
     - "CSS"
     - "Shell"
     - "Makefile"
+    - "C"
   max_display: 8               # Maximum number of languages to show
